@@ -81,28 +81,6 @@ A aplicação abrirá automaticamente no navegador, geralmente em: `http://local
 
 ---
 
-## 📦 Exemplo de `requirements.txt`
-
-Se ainda não tiver, aqui vai uma sugestão:
-
-```
-streamlit
-torch
-torchvision
-numpy
-scikit-learn
-Pillow
-opencv-python
-```
-
----
-
-## 📸 Captura de Tela
-
-> 💡 Adicione uma imagem ou GIF da interface aqui, se desejar!
-
----
-
 ## 🧠 Baseado em
 
 - [PyTorch](https://pytorch.org/)
